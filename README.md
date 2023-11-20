@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fridrichova-lucie
-- 👀 I’m interested in testing
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on testing
+- 👀 I’m interested in data and testing
+- 🌱 I’m currently learning Power Bi
+- 💞️ I’m looking new job
 - 📫 How to reach me lucie.fridrichova@post.cz
 
 <!---
