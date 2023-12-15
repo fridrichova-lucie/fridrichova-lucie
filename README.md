@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fridrichova-lucie
 - 👀 I’m interested in data and testing
-- 🌱 I’m currently learning Power Bi
+- 🌱 I’m currently learning Power Bi, SQL
 - 💞️ I’m looking new job
 - 📫 How to reach me lucie.fridrichova@post.cz
 
